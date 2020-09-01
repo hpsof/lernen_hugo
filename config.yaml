@@ -1,0 +1,33 @@
+baseURL: http://example.org/
+languageCode: de-CH
+title: KiJuMed-Praxis
+theme: github.com/hugoinaction/Eclectic
+author:
+  email: "admin@kijumed.ch"
+  name: "KiJuMed-Praxis"
+  location: "Bern"
+  phone: "Tel.Nr."
+  hours: "**Mon:** 09:00 bis 12:00 | 14:00 bis 17:00"
+menu:
+  main: 
+    - identifier: "Über uns"
+      name: "Über uns"
+      url: /about
+      weight: 10
+    - identifier: kontakt
+      name: Kontakt
+      url: /kontakt
+      weight: 20
+params:
+  color: "#71B180"
+  copyright: "Copyright hpsof @ 2020 | "
+  footer:
+    - title: "Über uns"
+      content: "bla bla bla blubber... wir sind eine tolle firma
+        bla bla bla blubber... wir sind eine tolle firma bla bla bla blubber... 
+        wir sind eine tolle firma bla bla bla blubber... wir sind eine tolle firma"
+    - title: Neuigkeiten
+      recents: blog
+      recentCount: 3
+    - title: Kontakt
+      contact: false
