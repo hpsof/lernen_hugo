@@ -2,6 +2,8 @@ baseURL: http://example.org/
 languageCode: de-CH
 title: KiJuMed-Praxis
 theme: github.com/hugoinaction/Eclectic
+# -- fuer github pages: output-dir muss docs heissen und eingecheckt sein.
+publishDir: docs
 author:
   email: "admin@kijumed.ch"
   name: "KiJuMed-Praxis"
