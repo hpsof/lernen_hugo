@@ -2,31 +2,31 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KiJuMed-Praxis</title>
-    <link>http://www.kijumed.ch/</link>
+    <link>http://hpsof.sofim.ch/lernen_hugo/</link>
     <description>Recent content on KiJuMed-Praxis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-CH</language>
     <managingEditor>admin@kijumed.ch (KiJuMed-Praxis)</managingEditor>
     <webMaster>admin@kijumed.ch (KiJuMed-Praxis)</webMaster>
     
-        <atom:link href="http://www.kijumed.ch/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://hpsof.sofim.ch/lernen_hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title></title>
-<link>http://www.kijumed.ch/about/</link>
+<link>http://hpsof.sofim.ch/lernen_hugo/about/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@kijumed.ch (KiJuMed-Praxis)</author>
-      <guid>http://www.kijumed.ch/about/</guid>
+      <guid>http://hpsof.sofim.ch/lernen_hugo/about/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://www.kijumed.ch/kontakt/</link>
+<link>http://hpsof.sofim.ch/lernen_hugo/kontakt/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@kijumed.ch (KiJuMed-Praxis)</author>
-      <guid>http://www.kijumed.ch/kontakt/</guid>
+      <guid>http://hpsof.sofim.ch/lernen_hugo/kontakt/</guid>
 <description></description>
 <category></category></item>
     
