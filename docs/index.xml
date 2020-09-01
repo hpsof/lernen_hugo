@@ -2,31 +2,31 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KiJuMed-Praxis</title>
-    <link>http://example.org/</link>
+    <link>http://www.kijumed.ch/</link>
     <description>Recent content on KiJuMed-Praxis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-CH</language>
     <managingEditor>admin@kijumed.ch (KiJuMed-Praxis)</managingEditor>
     <webMaster>admin@kijumed.ch (KiJuMed-Praxis)</webMaster>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://www.kijumed.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
 <title></title>
-<link>http://example.org/about/</link>
+<link>http://www.kijumed.ch/about/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@kijumed.ch (KiJuMed-Praxis)</author>
-      <guid>http://example.org/about/</guid>
+      <guid>http://www.kijumed.ch/about/</guid>
 <description></description>
 <category></category></item>
     
     <item>
 <title></title>
-<link>http://example.org/kontakt/</link>
+<link>http://www.kijumed.ch/kontakt/</link>
 <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>admin@kijumed.ch (KiJuMed-Praxis)</author>
-      <guid>http://example.org/kontakt/</guid>
+      <guid>http://www.kijumed.ch/kontakt/</guid>
 <description></description>
 <category></category></item>
     
