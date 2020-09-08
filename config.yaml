@@ -21,6 +21,10 @@ menu:
       name: Kontakt
       url: /kontakt
       weight: 20
+    - identifier: hilfe
+      name: Hilfe
+      url: /hilfe
+      weight: 30
 params:
   color: "#71B180"
   copyright: "Copyright hpsof @ 2020 | "
