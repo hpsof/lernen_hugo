@@ -1,7 +1,8 @@
 baseURL: http://hpsof.sofim.ch/lernen_hugo/
 languageCode: de-CH
 title: KiJuMed-Praxis
-theme: github.com/hugoinaction/Eclectic
+#...with modul (go installed) : theme: github.com/hugoinaction/Eclectic
+theme: Eclectic   #...download theme in themes-folder (https://github.com/hugoinaction/Eclectic)
 # -- fuer github pages: output-dir muss docs heissen und eingecheckt sein.
 publishDir: docs
 author:
@@ -12,7 +13,7 @@ author:
   hours: "**Mon:** 09:00 bis 12:00 | 14:00 bis 17:00"
 menu:
   main: 
-    - identifier: "Über uns"
+    - identifier: ueber_uns
       name: "Über uns"
       url: /about
       weight: 10
