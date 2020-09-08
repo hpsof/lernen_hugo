@@ -4,7 +4,7 @@ title: KiJuMed-Praxis
 #...with modul (go installed) : theme: github.com/hugoinaction/Eclectic
 theme: Eclectic   #...download theme in themes-folder (https://github.com/hugoinaction/Eclectic)
 # -- fuer github pages mit pre-compile: output-dir muss docs heissen und eingecheckt sein.
-publishDir: docs
+#publishDir: docs
 author:
   email: "admin@kijumed.ch"
   name: "KiJuMed-Praxis"
