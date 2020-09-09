@@ -1,9 +1,0 @@
-{
-  "name": "KiJuMed-Praxis",
-  "short_name": "KiJuMed-Praxis",
-  "start_url": "/",
-  "scope": "/",
-  "theme_color": "#71B180",
-  "background_color": "#71B180",
-  "display": "standalone"
-}
