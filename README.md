@@ -11,4 +11,4 @@ fuer uebungen im buch "hugo in action"
 
    * source => branch: gh-pages /(root)
 
-   * ![gh-pages](https://github.com/hpsof/lernen_hugo/actions)
+   * ![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg?branch=master&event=deployment_status)
