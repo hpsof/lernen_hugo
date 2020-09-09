@@ -5,10 +5,10 @@ fuer uebungen im buch "hugo in action"
 
 -	09.09.2020 13:47:51 test mit action hugo (branch gh-pages)
 
-... unter settings > github pages : https://hpsof.sofim.ch/lernen_hugo/
+   unter settings > github pages : https://hpsof.sofim.ch/lernen_hugo/
 
-...* enforce https ankreuzen
+   * enforce https ankreuzen
 
-...* source => branch: gh-pages /(root)
+   * source => branch: gh-pages /(root)
 
-...* ![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg)
+   * ![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg)
