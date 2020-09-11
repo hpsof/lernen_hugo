@@ -42,8 +42,8 @@ params:
       
 #...due to Universal
   style: blue
-  logo: /image/logo.png
-  logo_small: /image/logo.png
+  logo: /img/logo.png
+  logo_small: /img/logo.png
   about_us: dies und das und jenes und äis und sowieso...
   recent_posts:
     enable: true
