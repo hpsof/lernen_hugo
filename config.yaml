@@ -46,4 +46,4 @@ params:
   logo_small: /img/logo.png
   about_us: dies und das und jenes und äis und sowieso...
   recent_posts:
-    enable: true
+    enable: false
