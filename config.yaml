@@ -28,7 +28,7 @@ menu:
       weight: 30
 params:
   color: "#71B180"
-  copyright: "Copyright hpsof @ 11.09.2020 09:06:58 | "
+  copyright: "Copyright hpsof @ 11.09.2020 11:52:17 | "
   footer:
     - title: "Über uns"
       content: "bla bla bla blubber... wir sind eine tolle firma
@@ -41,9 +41,9 @@ params:
       contact: false
       
 #...due to Universal
-  style: green
-  logo: /assets/image/logo.png
-  logo_small: /assets/image/logo.png
+  style: blue
+  logo: /image/logo.png
+  logo_small: /image/logo.png
   about_us: dies und das und jenes und äis und sowieso...
   recent_posts:
     enable: true
