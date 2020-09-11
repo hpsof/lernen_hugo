@@ -26,6 +26,10 @@ menu:
       name: Hilfe
       url: /hilfe
       weight: 30
+    - identifier: daten_getrieben
+      name: "Daten getrieben"
+      url: /data-driven
+      weight: 100
 params:
   color: "#71B180"
   copyright: "Copyright hpsof @ 11.09.2020 11:52:17 | "
@@ -38,8 +42,14 @@ params:
       recents: blog
       recentCount: 3
     - title: Kontakt
-      contact: false
+      contact: false    
       
+# In config.yaml
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+            
 #...due to Universal
   style: blue
   logo: /img/logo.png
