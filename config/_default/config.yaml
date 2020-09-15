@@ -1,0 +1,9 @@
+baseURL: http://hpsof.sofim.ch/lernen_hugo/
+languageCode: de-CH
+title: KiJuMed-Praxis
+#...with modul (go installed) : theme: github.com/hugoinaction/Eclectic
+theme: Eclectic   #...download theme in themes-folder (https://github.com/hugoinaction/Eclectic)
+#theme: Universal
+# -- fuer github pages mit pre-compile: output-dir muss docs heissen und eingecheckt sein.
+#publishDir: docs
+

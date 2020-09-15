@@ -1,0 +1,11 @@
+goldmark:
+  renderer:
+    unsafe: true
+          
+#...due to Universal
+style: blue
+logo: /img/logo.png
+logo_small: /img/logo.png
+about_us: dies und das und jenes und ?is und sowieso...
+recent_posts:
+  enable: false

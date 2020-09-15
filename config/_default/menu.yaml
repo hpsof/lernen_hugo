@@ -1,0 +1,17 @@
+main: 
+  - identifier: ueber_uns
+    name: "Über uns"
+    url: /about
+    weight: 10
+  - identifier: kontakt
+    name: Kontakt
+    url: /kontakt
+    weight: 20
+  - identifier: hilfe
+    name: Hilfe
+    url: /hilfe
+    weight: 30
+  - identifier: daten_getrieben
+    name: "Daten getrieben"
+    url: /data-driven
+    weight: 100

@@ -1,0 +1,5 @@
+buildDrafts: true
+minify: false
+enableGitInfo: true
+params:
+  DebugMenu: true
