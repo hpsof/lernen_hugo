@@ -1,4 +1,2 @@
-Unsere Linksammlung
-============
-
-Wird regelmässig aktualisiert
+Unsere Linksammlung und andere Daten
+====

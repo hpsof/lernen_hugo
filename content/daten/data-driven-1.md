@@ -1,5 +1,5 @@
 ---
-title: Linksammlung
+title: Linksammlung 1
 content:
   - type: blog #carousel
     title: Links
