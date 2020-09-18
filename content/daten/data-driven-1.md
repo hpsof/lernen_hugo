@@ -1,3 +1,4 @@
+
 ---
 title: Linksammlung 1
 content:
@@ -12,3 +13,5 @@ content:
         content: www.sofim.com
 
 ---
+
+dies ist ein summary, also summa-sumarum etc. nimmt mal automatisch die ersten 70 char oder auch nicht was solls wir werden sehen, wohl theme-abhängig

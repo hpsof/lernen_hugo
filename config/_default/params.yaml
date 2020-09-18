@@ -1,5 +1,5 @@
 color: "#71B180"
-copyright: "Copyright hpsof @ 15.09.2020 14:46:44 | "
+copyright: "Copyright hpsof @ 18.09.2020 12:54:17 | "
 footer:
   - title: "Über uns"
     content: "bla bla bla blubber... wir sind eine tolle firma
@@ -10,3 +10,5 @@ footer:
     recentCount: 3
   - title: Kontakt
     contact: false 
+  - title: Wichtige Links
+    menu: true

@@ -1,3 +1,4 @@
+
 ---
 title: Sample data driven page using eclectic.
 content:
@@ -15,4 +16,9 @@ content:
       - title: Rectangle
         content: A quadrilateral plane figure having all its angles right angles and its opposite sides consequently equal.
 
+menu:
+  footer: 
+    name: Data-Driven
+    weight: 20
+    
 ---
