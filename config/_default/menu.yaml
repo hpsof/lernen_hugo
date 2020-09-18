@@ -15,3 +15,7 @@ main:
     name: "Daten getrieben"
     url: /data-driven
     weight: 100
+  - identifier: daten
+    name: "Daten"
+    url: /daten
+    weight: 200

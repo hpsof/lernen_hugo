@@ -1,18 +1,17 @@
 ---
-title: Sample data driven page using eclectic.
+title: Publikationen
 content:
-  - type: blog #carousel
-    title: Shapes
+  - type: carousel
+    title: Buchbsprechungen
     items: 
-      - title: Circle
-        content: A plane curve everywhere equidistant from a given fixed point, the center. 
-      - title: Squares
-        content: A plane figure having four equal sides.
-      - title: Triangle
-        content: The plane figure formed by connecting three points not in a straight line by straight line segments; a three-sided polygon.
-      - title: Line
-        content:  A geometric figure formed by a point moving along a fixed direction and the reverse direction.
-      - title: Rectangle
-        content: A quadrilateral plane figure having all its angles right angles and its opposite sides consequently equal.
+      - title: ssp sgp
+        content: Fachlich anerkannt durch die Schweizerische Gesellschaft f?r P?diatrie 
+      - title: doppelpunkt, 8. Januar 2020
+        content: Angst beim Arztbesuch:
+"Wie man Kindern hilft, die Furcht vor ?rztlichen Untersuchungen und medizinischen Eingriffen, wie zum Beispiel Impfungen oder Blutentnahmen, zu besiegen."
+      - title: kind+spital, Nr. 2/2019 (Dez 2019)
+        content: ...
+      - title: Buchvernissage vom 26. Oktober 2019
+        content:  Im Chinderbuechlade Bern
 
 ---
