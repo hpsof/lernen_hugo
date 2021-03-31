@@ -1,0 +1,9 @@
+
+rem echo . loesche dev-verzeichnis von kijumed
+rem rm -rf kijumed.ch/SUBDOM/dev
+rem cp -p -r public kijumed.ch/SUBDOM/
+echo .
+echo . ok. hier remote server
+echo .
+echo . pause... hit any key to continue
+read -n1 -r -p "Press any key to continue..." key
