@@ -1,4 +1,5 @@
 # lernen_hugo
+
 fuer uebungen im buch "hugo in action"
 
 - hook fuer pre-commit eingerichtet, github pages aktiviert   <== deaktivert 09.09.2020 13:40
@@ -12,4 +13,3 @@ fuer uebungen im buch "hugo in action"
    * source => branch: gh-pages /(root)
 
    * ![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg)
-   
