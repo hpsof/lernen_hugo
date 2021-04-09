@@ -12,4 +12,6 @@ fuer uebungen im buch "hugo in action"
 
    * source => branch: gh-pages /(root)
 
-   * ![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg)
+   * anderes buch siehe : prag. progr. "build websites with hugo"
+
+![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg)
