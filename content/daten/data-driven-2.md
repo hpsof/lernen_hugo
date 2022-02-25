@@ -21,3 +21,9 @@ content:
 dies ist ein content, evtl auch ein summary, wenn frontmatter desc. fehlt. theme-abhängig? <!--more--> ob das noch weiter geht
 
 hier ein youtube-video : {{< youtube 9nRs1MTkQcY >}}
+
+nested shortcode :
+{{< highlight html "linenos=table,h1_lines=28-29,linenostart=10" >}}
+  {{</* youtube 9nRs1MTkQcY */>}}
+  {{< youtube 9nRs1MTkQcY >}}
+{{</ highlight >}}
