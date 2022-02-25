@@ -6,14 +6,18 @@ summary: also, das wäre dann das frontmatter summary summa sumarum, nix da, weg
 content:
   - type: blog #carousel
     title: Links
-    items: 
+    items:
       - title: NZZ
         content: www.nzz.ch
       - title: republik
         content: www.republik.ch
       - title: fotobuch bei der kinderärztin
         content: http://bei-der-kinderaerztin.kijumed.ch
+      - title: youtube video ...
+        content: https://youtu.be/9nRs1MTkQcY
 
 ---
 
 dies ist ein content, evtl auch ein summary, wenn frontmatter desc. fehlt. theme-abhängig? <!--more--> ob das noch weiter geht
+
+hier ein youtube-video : {{< youtube 9nRs1MTkQcY >}}
