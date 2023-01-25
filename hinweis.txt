@@ -1,0 +1,6 @@
+
+lernen_hugo : so heisst das repos in github.
+  
+kann leider nicht als uvz ins repos/verz HUGO_VERSUCHE integriert werden (submodule-kram)? 
+
+recht funktionelle seite mit hero für kijumed 

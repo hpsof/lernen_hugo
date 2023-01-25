@@ -1,17 +1,17 @@
 # lernen_hugo
 
-fuer uebungen im buch "hugo in action"
+fuer uebungen im buch "hugo in action" im hinblick auf web kijumed
 
-- hook fuer pre-commit eingerichtet, github pages aktiviert   <== deaktivert 09.09.2020 13:40
 
--	09.09.2020 13:47:51 test mit action hugo (branch gh-pages)
+-	deploy from a branch : gh-pages /(root)
 
-   unter settings > github pages : https://hpsof.sofim.ch/lernen_hugo/
+   * unter settings > pages : Your site is live at https://hpsof.github.io/lernen_hugo/
+   * recht funktionelle seite mit hero für kijumed 
 
-   * enforce https ankreuzen
 
-   * source => branch: gh-pages /(root)
+-  anderes buch siehe : prag. progr. "build websites with hugo"
 
-   * anderes buch siehe : prag. progr. "build websites with hugo"
+   
 
 ![gh-pages](https://github.com/hpsof/lernen_hugo/workflows/gh-pages/badge.svg)
+
