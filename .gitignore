@@ -5,3 +5,5 @@ deploy-hugo-switch.cmd
 docs/
 .hugo_build.lock
 .DS_Store
+
+node_modules
